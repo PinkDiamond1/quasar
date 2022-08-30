@@ -1,5 +1,5 @@
 ---
-title: Theming
+title: LoveQuasarEconomyIndex
 desc: Theme builder for a Quasar app with which you can play with the brand colors.
 components:
   - theming/ThemePicker
